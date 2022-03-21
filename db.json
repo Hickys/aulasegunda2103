@@ -1,0 +1,28 @@
+{
+    "clientes" : [
+        {
+            "id":1,
+            "nome":"jose carmino",
+            "endereco":"rua sem nome",
+            "email":"jose.gomes@saojudas.br"
+        },
+        {
+            "id":2,
+            "nome":"Guilhermo",
+            "endereco":"rua do lol",
+            "email":"macressgamer@gmail.com"
+        },
+        {
+            "id":3,
+            "nome":"Vinicin",
+            "endereco":"rua do lol",
+            "email":"bugnicius@gmail.com"
+        },
+        {
+            "id":4,
+            "nome":"Pedrox",
+            "endereco":"rua do genshin",
+            "email":"gatodecombate@gmail.com"
+        }
+    ]
+}
